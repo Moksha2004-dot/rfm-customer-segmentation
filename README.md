@@ -44,4 +44,6 @@ RFM analysis can help businesses:
 
 ## Project Files
 
-SQL queries, analysis screenshots, and supporting documentation will be added to this repository.
+This repository contains my RFM Customer Segmentation project, including supporting analysis files.
+
+The project uses SQL and Databricks to analyze customer purchasing behaviour and explore customer segments based on Recency, Frequency, and Monetary values.
