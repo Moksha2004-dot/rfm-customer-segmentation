@@ -45,3 +45,26 @@ RFM analysis can help businesses:
 ## Author
 
 Moksha Ramchetty
+
+## Project Screenshots
+
+### 1. Dataset Overview
+![Dataset Overview](Screenshots/01_dataset_overview.png)
+
+### 2. Data Cleaning
+![Data Cleaning](Screenshots/02_data_cleaning.png)
+
+### 3. RFM Calculation
+![RFM Calculation](Screenshots/03_rfm_calculation.png)
+
+### 4. Customer RFM Details
+![Customer RFM Details](Screenshots/04_customer_rfm_details.png)
+
+### 5. Customer Segmentation Dashboard
+![Customer Segmentation Dashboard](Screenshots/05_customer_segmentation_dashboard.png)
+
+### 6. RFM Analysis Insights
+![RFM Analysis Insights](Screenshots/06_rfm_analysis_insights.png)
+
+### 7. Customer Value and Business Insights
+![Customer Value and Business Insights](Screenshots/07_customer_value_business_insights.png)
